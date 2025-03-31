@@ -1,0 +1,7 @@
+rg_name             = "cmaz-49b8ddc2-mod3-rg"
+storageaccount_name = "cmaz49b8ddc2sa"
+vnet_name           = "cmaz-49b8ddc2-mod3-vnet"
+subnet1_name        = "frontend"
+subnet2_name        = "backend"
+student_email       = "theodor-laurentiu_robescu@epam.com"
+location            = "West Europe"
